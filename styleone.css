@@ -1,0 +1,49 @@
+.name{
+    color:rgb(241, 186, 4);
+    position: relative;
+    bottom: 50px;
+    left: 0px;
+    margin: 20px 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+    
+    
+}
+
+div ul>li{
+    width:250px;
+    color: white;
+    display: inline-block;
+    padding: 10px 25px;
+    position: relative;
+    left: 800px;
+    
+}
+body{
+    background-image: url(./istockphoto-1173290090-170667a.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.name:hover{
+    color: rgb(29, 29, 243);
+    transition-duration: 2s;
+}
+p{
+    position: relative;
+    bottom: 40px;
+    color: white;
+    text-align: justify;
+    
+}
+.about_me{
+    width: 700px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.container{
+    background-color: rgb(7, 7, 199);
+    transform: rotate(50deg);
+    width: 17px;
+    height: 17px;
+    
+}
